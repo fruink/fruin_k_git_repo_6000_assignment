@@ -1,0 +1,1 @@
+This is a readme created by gitbash and will use it for my assigment.
